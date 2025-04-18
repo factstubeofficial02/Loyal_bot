@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Miuki-bot",
   "PREFIX": "/",
-  "react": "☠️",
+  "react": "😽",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "100072730857019"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100072730857019",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100072730857019"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
